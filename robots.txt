@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqewaaju.github.io/GhI/sitemap_index.txt
+Sitemap: https://uqewaaju.github.io/Yvw/sitemap_index.txt
+Sitemap: https://uqewaaju.github.io/lmc/sitemap_index.txt
+Sitemap: https://uqewaaju.github.io/sRH/sitemap_index.txt
